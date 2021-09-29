@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "^4.5.0",
-    "datatables.net": "^1.10.22",
+    "datatables.net": "^1.11.3",
     "datatables.net-bs": "^1.10.21",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
